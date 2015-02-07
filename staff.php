@@ -1,8 +1,8 @@
-<?php include('http://fusus.org/resources/components/header.php')?>
+<?php include('http://fusus.org/resources/components/header.php'); ?>
         <title>FususIRC Staff</title>
 </head>
 <body>
-    <?php include('http://fusus.org/resources/components/nav.php')?>
+    <?php include('http://fusus.org/resources/components/nav.php'); ?>
         <div class="container">
             <div class="panel panel-info">
                 <div class="panel-heading">
@@ -19,4 +19,4 @@
                 <p>Network Administration are contactable at the email <i>admin@fusus.org</i>.</p> <p>Staff members can be found in the channel <b>#SubRoutine</b>.</p>
             </div>
         </div>
-<?php include('http://fusus.org/resources/components/footer.php')?>
+<?php include('http://fusus.org/resources/components/footer.php'); ?>

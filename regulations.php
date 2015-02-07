@@ -1,8 +1,8 @@
-<?php include('http://fusus.org/resources/components/header.php')?>
+<?php include('http://fusus.org/resources/components/header.php'); ?>
     <title>FususIRC Regulations</title>
 </head>
 <body>
-    <?php include('http://fusus.org/resources/components/nav.php')?>
+    <?php include('http://fusus.org/resources/components/nav.php'); ?>
         <div class="container">
             <h3>FususIRC Charter</h3>
             <p>To ensure a productive environment, FususIRC has enacted a charter that must be adhered to. If a client has a disagreement with a topic discussing in the charter, they are asked to disconnect from FususIRC.</p>
@@ -17,4 +17,4 @@
             <p class="text-danger">- Distribution of copyright-protected property.</p>
             <p class="text-danger">- Creation of sex-related channels.</p>
         </div>
-<?php include('http://fusus.org/resources/components/footer.php')?>
+<?php include('http://fusus.org/resources/components/footer.php'); ?>
