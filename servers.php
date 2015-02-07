@@ -1,8 +1,8 @@
-<?php include('http://fusus.org/resources/components/header.php'); ?>
+<?php include('resources/components/header.php'); ?>
         <title>FususIRC Servers</title>
 </head>
 <body>
-    <?php include('http://fusus.org/resources/components/nav.php'); ?>
+    <?php include('resources/components/nav.php'); ?>
         <div class="container">
             <h3>North American Servers</h3>
             <table class="table table-striped">
@@ -55,5 +55,5 @@
                 </tbody>
             </table>
         </div>
-<?php include('http://fusus.org/resources/components/footer.php'); ?>
+<?php include('resources/components/footer.php'); ?>
             
