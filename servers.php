@@ -1,35 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-        <meta name="description" content="FususIRC infrastructure is distributed around the world to ensure optimal connections for its users.">
-        <!--     <link rel="shortcut icon" href="resources/img/favicon.ico" type="image/x-icon" /> -->
-        <link href="resources/css/bootstrap.min.css" rel="stylesheet">
+<?php include('http://fusus.org/resources/components/header.php')?>
         <title>FususIRC Servers</title>
-    </head>
-    <body>
-        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
-            <div class="container-fluid">
-                <div class="navbar-header">
-                    <button type="button" class="navbar-toggle" data-toggle=".navbar-collapse">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <a class="navbar-brand" href="http://fusus.org/index.html">FususIRC</a>
-                </div>
-                <div class="navbar-collapse collapse navbar-responsive-collapse">
-                    <ul class="nav navbar-nav">
-                        <li><a href="http://fusus.org/regulations.html">Regulations</a></li>
-                        <li><a href="http://fusus.org/servers.html">Servers</a></li>
-                        <li><a href="http://fusus.org/staff.html">Staff</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div><br><br><br>
+</head>
+<body>
+    <?php include('http://fusus.org/resources/components/nav.php')?>
         <div class="container">
             <h3>North American Servers</h3>
             <table class="table table-striped">
@@ -82,7 +55,5 @@
                 </tbody>
             </table>
         </div>
-        <script src="resources/js/jquery.min.js"></script><script src="resources/js/bootstrap.min.js"></script>
-    </body>
-</html>
+<?php include('http://fusus.org/resources/components/footer.php')?>
             
