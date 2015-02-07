@@ -3,6 +3,7 @@
 </head>
 <body>
     <?php include('resources/components/nav.php'); ?>
+        <br>
         <div class="container">
             <div class="panel panel-info">
                 <div class="panel-heading">
