@@ -4,7 +4,7 @@
 <body>
     <?php include('resources/components/nav.php'); ?>
         <div class="container">
-            <h3>North American Servers</h3>
+            <h3 class="text-center">North American Servers</h3>
             <table class="table table-striped">
                 <thead>
                     <tr>
@@ -35,7 +35,7 @@
                     </tr>
                 </tbody>
             </table>
-            <h3>Europe Servers</h3>
+            <h3 class="text-center">Europe Servers</h3>
             <table class="table table-striped">
                 <thead>
                     <tr>
@@ -54,7 +54,7 @@
                     </tr>
                 </tbody>
             </table>
-            <h5>SSL Fingerprints</h5>
+            <h4 class="text-center">SSL Fingerprints</h4>
             <table class="table table-striped">
                 <thead>
                     <tr>
