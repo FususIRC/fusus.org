@@ -33,6 +33,12 @@
                         <td>Jordan</td>
                         <td>None</td>
                     </tr>
+		    <tr class="info">
+			<td>Grant</td>
+			<td>Chicago, IL</td>
+			<td>Jordan [Sponsored by Yalo]</td>
+			<td>None<td>
+		    </tr>
                 </tbody>
             </table>
             <h3 class="text-center">Europe Servers</h3>
