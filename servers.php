@@ -35,9 +35,9 @@
                     </tr>
 		    <tr class="info">
 			<td>Grant</td>
-			<td>Chicago, IL</td>
+			<td>Chicago, Illinois</td>
 			<td>Jordan [Sponsored by Yalo]</td>
-			<td>None<td>
+			<td>None</td>
 		    </tr>
                 </tbody>
             </table>
