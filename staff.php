@@ -13,7 +13,8 @@
                     <p>&middot; <b>Cajs</b> (cajs@fusus.org) - Piscine</p>
                     <p>&middot; <b>ChasedSpade</b> (chasedspade@fusus.org) - Symphonix, Griffith, Webchat</p>
                     <p>&middot; <b>Jordan</b> (jordan@fusus.org) - Empire, Maple, Grant</p>
-            <p>&middot; <b>Yoda</b> (yoda@fusus.org) - Louvre</p>
+                    <p>&middot; <b>n3rd</b> (n3rd@fusus.org) - Neuschwanstein, Stonehenge</p>
+                    <p>&middot; <b>Yoda</b> (yoda@fusus.org) - Louvre</p>
                 </div>
             </div>
             <div class="well">
