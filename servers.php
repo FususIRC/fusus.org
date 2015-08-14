@@ -58,6 +58,12 @@
                         <td>Yoda</td>
                         <td>None</td>
                     </tr>
+                    <tr class="info">
+                    	<td>Stonehenge</td>
+                    	<td>Amsterdam, Netherlands</td>
+                    	<td>n3rd</td>
+                    	<td>None</td>
+                    </tr>
                 </tbody>
             </table>
         </div>
