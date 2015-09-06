@@ -66,5 +66,6 @@
                     </tr>
                 </tbody>
             </table>
+            <small>All FususIRC servers use a trusted SSL certificate with the SHA-1 fingerprint: B5:55:60:29:8F:12:22:33:FD:8A:A7:01:D7:0C:53:B7:93:FB:E8:A6</small>
         </div>
 <?php include('resources/components/footer.php'); ?>
