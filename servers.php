@@ -60,7 +60,7 @@
                     </tr>
                     <tr class="info">
                     	<td>Stonehenge</td>
-                    	<td>Amsterdam, Netherlands</td>
+                    	<td>Maidenhead, United Kingdom</td>
                     	<td>n3rd</td>
                     	<td>None</td>
                     </tr>
